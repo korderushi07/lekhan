@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "LEKHAN - Programming in Devanagari | देवनागरी प्रोग्रामिंग",
   description: "Write code in your mother tongue.",
   icons: {
-    icon: "/favicon.jpg",
+    icon: "/favicon__lekhan.jpg",
     apple: "/apple-icon.png",
   },
 }
