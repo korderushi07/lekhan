@@ -81,5 +81,6 @@ Contributions are welcome! If you'd like to add more Marathi keywords or improve
 
 ---
 
-Made with ❤️ by **Rushikesh Korde**
+Developed by **Rushikesh Korde & Nehal Mehta** ✨
+
 
