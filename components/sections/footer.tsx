@@ -32,9 +32,9 @@ export default function Footer() {
         {/* Credits */}
         <div className="text-center space-y-2">
           <p className="text-sm text-muted-foreground">
-            Made with <span className="text-red-500">♥</span> by{" "}
+            Developed<span className="text-red-500"></span> by{" "}
             <span className="text-white font-medium">
-              Rushikesh Korde
+              Rushikesh Korde & Nehal Mehta
             </span>
           </p>
 
